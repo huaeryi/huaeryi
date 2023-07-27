@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <!--
 **huaeryi/huaeryi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=huaeryi&show_icons=true&theme=dracula&count_private=true)
----
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huaeryi&theme=dracula&layout=compact)
